@@ -70,12 +70,18 @@ To use the Mathematica notebook:
 If you use this material in your work, please cite:
 
 ```
-@article{BarleySuslov2025,
-  title={Old Quantum Mechanics by Bohr and Sommerfeld from a Modern Perspective},
-  author={Kamal K. Barley and Sergei K. Suslov},
-  journal={arXiv preprint arXiv:2506.00408},
-  year={2025}
-}
+
+@misc{BarleySusMath,
+	author = {Barley, Kamal and Suslov, Sergei K.},
+	date-added = {2025-06-08 17:12:59 -0400},
+	date-modified = {2025-06-08 17:18:09 -0400},
+	howpublished = {\url{https://github.com/kbarley-msri/Bohr-Sommerfeld-Quantum-Mechanics}},
+	month = {June},
+	note = {GitHub repository, accessed June 8, 2025},
+	publisher = {GitHub},
+	title = {Supplement to: Old Quantum Mechanics by Bohr and Sommerfeld from a Modern Perspective},
+	year = {2025}}
+
 ```
 
 ---
