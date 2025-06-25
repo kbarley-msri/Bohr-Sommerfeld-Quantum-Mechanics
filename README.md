@@ -2,7 +2,7 @@
 
 ### 📘 *Old Quantum Mechanics by Bohr and Sommerfeld from a Modern Perspective*
 
-**Authors:** Kamal K. Barley and Sergei K. Suslov  
+**Authors:**  Kamal K. Barley, Andreas Ruffing, and Sergei K. Suslov  
 **Last Modified:** June 2, 2025  
 **arXiv:** [arXiv:2506.00408v1 [quant-ph]](https://arxiv.org/abs/2506.00408)
 
@@ -72,7 +72,7 @@ If you use this material in your work, please cite:
 ```
 
 @misc{BarleySusMath,
-	author = {Barley, Kamal and Suslov, Sergei K.},
+	author = {Barley, Kamal K. and Ruffing,Andreas and Suslov, Sergei K.},
 	date-added = {2025-06-08 17:12:59 -0400},
 	date-modified = {2025-06-08 17:18:09 -0400},
 	howpublished = {\url{https://github.com/kbarley-msri/Bohr-Sommerfeld-Quantum-Mechanics}},
@@ -89,6 +89,7 @@ If you use this material in your work, please cite:
 ## 📬 Contact
 
 - Kamal K. Barley: [Kamal.Barley@howard.edu](mailto:Kamal.Barley@howard.edu)  
+- Andreas Ruffing: [alruffing@web.de](mailto:alruffing@web.de)
 - Sergei K. Suslov: [sks@asu.edu](mailto:sks@asu.edu)
 
 ---
